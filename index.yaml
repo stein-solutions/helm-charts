@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  aks-spot-instance-tolerator:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-29T07:00:15.002892918Z"
+    description: A Helm chart for Kubernetes
+    digest: 26a62b6d33ddfa7e070dddcb7652acbe4d45f3f6a9085727ccd81b517d5b2ef3
+    name: aks-spot-instance-tolerator
+    type: application
+    urls:
+    - https://github.com/stein-solutions/helm-charts/releases/download/aks-spot-instance-tolerator-0.1.0/aks-spot-instance-tolerator-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-29T07:00:15.002903718Z"
