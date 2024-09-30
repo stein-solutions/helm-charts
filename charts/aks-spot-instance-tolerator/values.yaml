@@ -8,7 +8,7 @@ image:
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "v0.2-test@sha256:772a1779b470e1cb22349c83884b0ea7efb47c439ef4028342a42c81ed537024"
-imageCoordinates: "ghcr.io/stein-solutions/aks-spot-instance-tolerator@sha256:53a448b01da361750dafe31bc938f298d0015aee817097cd04ca6b7abec56b31"
+imageCoordinates: "ghcr.io/stein-solutions/aks-spot-instance-tolerator@sha256:785ef383baa7b9c281786740a6a9b3b25acaa1b8f55b889ca79e346eb447edc1"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
