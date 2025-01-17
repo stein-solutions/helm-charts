@@ -5,7 +5,7 @@
 replicaCount: 1
 image:
   pullPolicy: IfNotPresent
-  coordinates: "ghcr.io/stein-solutions/aks-spot-instance-tolerator@sha256:b9d4d30c46d107353f91a28a5e5281ea18fa70d1e94218c0bc6d82eec29f23c9"
+  coordinates: "ghcr.io/stein-solutions/aks-spot-instance-tolerator@sha256:1f839213ac87478f1be0c3bb1b2e74c5987c7f0e7cc0592f2dde0be02b63c5c2"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
